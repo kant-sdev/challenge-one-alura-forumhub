@@ -264,5 +264,5 @@ Todos os requisitos iniciais do desafio foram atendidos.
 
 ## 👨‍💻 Autor
 
-**Kant Lima**  
+**Kant.sdev**  
 Projeto educacional – Desafio ForumHub  
